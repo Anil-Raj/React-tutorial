@@ -1,0 +1,23 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "repository for react tutorial by Anil",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anil-Raj/React-tutorial.git"
+  },
+  "keywords": [
+    "React",
+    "Tutorial",
+    "JSX"
+  ],
+  "author": "Anil G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anil-Raj/React-tutorial/issues"
+  },
+  "homepage": "https://github.com/Anil-Raj/React-tutorial#readme"
+}
