@@ -1,0 +1,1 @@
+In this tutorial you will learn to display how to display "Hello world" using react in 10 sec.
